@@ -1,4 +1,4 @@
-# dotfiles
+# Minimalistic dotfiles
 ### Featured configs 
 * tmux
 * awesomewm
