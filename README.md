@@ -7,7 +7,7 @@ Personal dotfiles
 * wezterm
 # System info
 * Operating system - Arch Linux
-* Code editor - Neovim
+* Code editor - Neovim [my config](https://github.com/assense/nvim-config)
 * Shell - zsh
 # Screenshots
 ---
